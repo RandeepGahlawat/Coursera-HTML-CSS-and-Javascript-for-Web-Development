@@ -6,4 +6,4 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution](https://randeepgahlawat.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Development/Assignments/Module 2/index.html)
+* [Solution](https://randeepgahlawat.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Development/Assignments/Module%202/index.html)
