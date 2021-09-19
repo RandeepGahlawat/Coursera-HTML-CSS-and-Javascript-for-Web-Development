@@ -13,3 +13,6 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 4
 * [Solution](https://randeepgahlawat.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Development/Assignments/Module%204/index.html)
+
+### Module 
+* [Solution](https://randeepgahlawat.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Development/Assignments/Module%205/index.html)
